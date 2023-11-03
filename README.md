@@ -2,7 +2,7 @@
 
 ## Aggie Code of Honor
 
-"As an Aggie, I am committed to honesty and integrity in all of my academic activities. I will not engage in any dishonorable conduct, nor will I tolerate it in others."
+**An Aggie does not lie, cheat or steal, or tolerate those who do.**
 
 ## Academic Integrity
 
