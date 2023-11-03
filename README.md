@@ -1,6 +1,4 @@
-# ENGR 102 Coursework
 
-This repository contains my coursework for ENGR 102, including projects, assignments, and notes that I've compiled over the course of the semester. The contents within are tailored to reflect my understanding and application of the engineering concepts taught in class.
 
 ## Aggie Code of Honor
 
